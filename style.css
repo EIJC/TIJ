@@ -2,7 +2,7 @@ body {
     height: 100%; 
     color: #333; 
     margin-bottom: 50px;
-    font-size:14px;
+    font-size:24px;
 }
 h1 { 
     color: #337AB7; 
@@ -94,11 +94,5 @@ p2 {
    margin-top: 7px;
 }
 
-.page-header {  
-    border-bottom: 0px; 
-    
-}
-.intro-header {
-    height:700px;
-}
+
 

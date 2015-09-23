@@ -93,10 +93,8 @@ p2 {
 }
 
 .nav {
-   align: left;
    text-transform: uppercase;
-   font-size: small;
-   margin-top: 7px;
+   font-size: 24px;
 }
 
 

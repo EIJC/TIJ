@@ -10,21 +10,6 @@ body {
 	padding:10px;
 	width: 100%;
 }
-
- @media (max-width: 767px) {
-            body {
-                padding-right: 0px;
-                padding-left: 0px;
-            }
-    
-            footer, .wrapper {
-                padding-left: 20px;
-                padding-right: 20px;
-            }
-        }
-        .container {
-            max-width: 940px;
-        }
         
 h1 { 
     color: #337AB7; 

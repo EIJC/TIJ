@@ -85,11 +85,11 @@ p2 {
 .nav {
    text-transform: uppercase;
    font-size: 24px;
-   height: 100px;
+   height: 80px;
 }
 
 footer {
-   background: #337AB7;
+   background-colour: #337AB7;
    height: 120px;
 }
 

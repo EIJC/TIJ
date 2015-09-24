@@ -88,5 +88,7 @@ p2 {
    height: 100px;
 }
 
-
+.navbar-default {
+   background-colour: #337AB7;
+}
 

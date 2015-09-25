@@ -81,7 +81,9 @@ p2 {
     background: transparent none repeat scroll 0px 0px;
     
 }
-
+.navbar-default {
+   background: #337AB7;
+}
 .nav {
    text-transform: uppercase;
    font-size: 24px;

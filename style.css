@@ -37,7 +37,9 @@ p2 {
     margin-right:40px;
     font-family: Verdana,Geneva,sans-serif;
 }
-
+.btn {
+   color: #FF7F00;
+}
 
 .btn-circle-1 {
     width: 70px;

@@ -95,6 +95,10 @@ p2 {
       font-size: 24px;
 }
 
+.navbar-footer {
+   background-colour: F8F8F8;
+   margin-top: -50px;
+}
 
 .content {
    margin-top: 140px;

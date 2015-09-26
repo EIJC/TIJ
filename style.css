@@ -89,9 +89,15 @@ p2 {
    font-size: 24px;
    height: 100px;
 }
+
 .navbar-text {
    color: #FF7F00;
 }
+
+.navbar-nav>li {
+  float: none;
+}
+
 .content {
    margin-top: 120px;
    margin-bottom: 120px;

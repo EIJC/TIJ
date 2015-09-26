@@ -95,6 +95,9 @@ p2 {
    color: #FF7F00;
 }
 
+.navbar-collapsed {
+   text-align: center;
+}
 
 .content {
    margin-top: 120px;

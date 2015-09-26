@@ -1,7 +1,9 @@
-   
+body {
+   font-size: 24;
+}
 h1 { 
     color: #FF7F00; 
-    font-size: 24px; 
+    font-size: 36px; 
     
 }
 h2 { 

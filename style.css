@@ -119,15 +119,11 @@ p2 {
 .section-grey {
    width: 80%;
    background-color: #F8F8F8;
-   margin: 0 0 auto;
+   margin-top:-40px;
+   margin-bottom:-30px;
+   margin-left: none;
+   margin right: none;
    padding: 140px;
 }
 .myCarousel {
    width: 80%;
-}
-.item active {
-   width: 80%;
-   height: 250px; 
-   margin: auto;
-   float: left;
-}

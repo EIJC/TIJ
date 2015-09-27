@@ -117,7 +117,7 @@ p2 {
 .section {
    padding: 100px;
    width: 80%;
-   margin:0 0 auto;
+   padding: 100px;
 }
 .section-grey {
    width: 100%;

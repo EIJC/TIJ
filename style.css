@@ -122,3 +122,10 @@ p2 {
    margin-bottom: -30px;
    padding: 140px;
 }
+.slider {
+   height: 250px; 
+   margin-left: 30px; 
+   margin-right: 60px; 
+   float: left;
+}
+}

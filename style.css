@@ -125,4 +125,6 @@ p2 {
    margin right: none;
    padding: 100px;
 }
-
+.carousel-inner {
+   padding: 30px;
+}

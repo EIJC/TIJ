@@ -1,6 +1,8 @@
 body {
    font-size: 28px;
    color: #777;
+   margin-top: 140px;
+   margin-bottom: 150px;
 }
 h1 { 
     color: #FF7F00; 
@@ -102,10 +104,6 @@ p2 {
   margin-bottom: 50px;
 }
 
-.content {
-   margin-top: 140px;
-   margin-bottom: 150px;
-}
 .divider {
    background-color: #FF7F00; 
    width: 100%; 

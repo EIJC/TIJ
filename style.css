@@ -113,19 +113,21 @@ p2 {
 }
 .section {
    padding: 100px;
-   width: 100%;
+   width: 80%;
+   margin:auto;
 }
 .section-grey {
-   width: 100%;
+   width: 80%;
    background-color: #F8F8F8;
-   margin-top:-40px;
-   margin-bottom: -30px;
+   margin: auto;
    padding: 140px;
 }
-.slider {
-   height: 250px; 
-   margin-left: 30px; 
-   margin-right: 60px; 
-   float: left;
+.myCarousel {
+   width: ;
 }
+.slider {
+   width: 80%;
+   height: 250px; 
+   margin: auto;
+   float: left;
 }

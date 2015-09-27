@@ -114,17 +114,17 @@ p2 {
 .section {
    padding: 100px;
    width: 80%;
-   margin:auto;
+   margin:0 0 auto;
 }
 .section-grey {
    width: 80%;
    background-color: #F8F8F8;
-   margin: auto;
+   margin: 0 0 auto;
    padding: 140px;
 }
 .myCarousel {
    width: 80%;
-   margin: auto;
+   margin: 0 0 auto;
 }
 .img-slider {
    width: 80%;

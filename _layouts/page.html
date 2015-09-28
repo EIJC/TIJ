@@ -34,6 +34,7 @@ layout: base
 
         {{ content }}
 
+<div class="footer">
 {% if page.language == 'en' %}
   {% include navbar-en.html %}
 {% else %}
@@ -42,7 +43,7 @@ layout: base
 {% elseif %}
   {% include navbar.html %}
 {% endif %}
-
+</div>
 
 
 

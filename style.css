@@ -129,5 +129,6 @@ p2 {
    padding: 100px;
 }
 .carousel-inner {
-   padding: 0 0 100px;
+   padding-left: 100px;
+   padding-right: 100px;
 }

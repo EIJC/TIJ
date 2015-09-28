@@ -39,7 +39,7 @@ layout: base
   {% include navbar-en.html %}
 {% if page.language == 'ar' %}
   {% include navbar-ar.html %}
-{% else %}
+{% if page.language == 'de' %}
   {% include navbar.html %}
 {% endif %}
 </div>

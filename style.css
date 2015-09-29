@@ -33,59 +33,14 @@ p1 {
     font-family: Verdana, sans-serif;
 }
 
-p2 {
-    color: #E0E0E0;
+p-title {
+    color: #FF7F00;
     font-size: 3.2vm; 
-    text-align: left; 
-    margin-right:40px;
-    font-family: Verdana,Geneva,sans-serif;
 }
 .btn {
    color: #FF7F00;
 }
 
-.btn-circle-1 {
-    width: 70px;
-    height: 70px;
-    margin-top: 10px;
-    margin-bottom: 20px;
-    padding: 9px 13px;
-    border: 2px solid #F0F0F0;
-    border-radius: 100% !important;
-    font-size: 40px;
-    color: #F0F0F0;
-    background: transparent none repeat scroll 0px 0px;
-    
-}
-
-.btn-circle-2 {
-    width: 24px;
-    height: 24px;
-    margin-top: 0px;
-    margin-bottom: 0px;
-    padding: 3px 5px;
-    border: 1px solid #FF7F00;
-    border-radius: 100% !important;
-    font-size: 16px;
-    color:  #FF7F00;
-    background: transparent none repeat scroll 0px 0px;
-    vertical-align: right;
-    
-}
-
-.btn-circle-3 {
-    width: 70px;
-    height: 70px;
-    margin-top: 10px;
-    margin-bottom: 20px;
-    padding: 9px 13px;
-    border: 2px solid #FF7F00;
-    border-radius: 100% !important;
-    font-size: 40px;
-    color: #FF7F00;
-    background: transparent none repeat scroll 0px 0px;
-    
-}
 
 .navbar {
    height: 120px;

@@ -26,11 +26,10 @@ h3 {
 a {
    color: #FF7F00;
 }
-p1 {
-    color: #F0F0F0;
-    font-size: 3.2vmax; 
-    text-align: left; 
-    font-family: Verdana, sans-serif;
+.p-bottom {
+    color: #FF7F00;
+    text-transform: uppercase;
+    font-size: 12px;
 }
 
 .title {

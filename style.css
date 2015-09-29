@@ -66,7 +66,7 @@ p1 {
 }
 .section {
    width: 100%;
-   padding: 100px;
+   padding: 30px 50px;
 
 }
 .section-grey {
@@ -76,7 +76,7 @@ p1 {
    margin-bottom:-30px;
    margin-left: none;
    margin right: none;
-   padding: 100px;
+   padding: 30px 50px;
 }
 .carousel-inner {
    padding-left: 100px;

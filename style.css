@@ -92,3 +92,10 @@ a {
    float: left;
    position: center;
 }
+
+.img-circle {
+   width: 100px; 
+   height: 130px;
+   margin-bottom: 30px;
+}
+}

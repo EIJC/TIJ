@@ -109,3 +109,11 @@ a {
    margin-bottom: 60px;
 }
 
+.textbox {
+    background-color:#F0F0F0 ;
+    border: 1px solid #FAFAFA;
+    float: none;
+    align: center; 
+    margin: 10px;
+    width: 600px;
+    padding: 20px;

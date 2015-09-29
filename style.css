@@ -96,6 +96,8 @@ a {
 .img-circle {
    width: 100px; 
    height: 130px;
-   margin-bottom: 30px;
+   float: left;
+   margin-right: 30px;
+   margin-bottom: 20px;
 }
 

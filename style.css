@@ -23,18 +23,18 @@ body {
     color: #FF7F00; 
     font-size: 120%;  
   }
-  .p-bottom {
+  p-bottom {
     color: #337AB7;
     text-transform: uppercase;
     font-size: 80%;
     margin-top: 20px;
    }
-   .title {
+   title {
     color: #FF7F00;
     font-size: 100%; 
     margin-top: 20px;
    }
-   .nav {
+   nav {
       margin-top: 30px;
       color: #FF7F00;
       text-transform: uppercase;
@@ -59,18 +59,18 @@ body {
     color: #FF7F00;
     font-size: 110%;  
   }
-  .p-bottom {
+  p-bottom {
     color: #337AB7;
     text-transform: uppercase;
     font-size: 80%;
     margin-top: 20px;
    }
-   .title {
+   title {
     color: #FF7F00;
     font-size: 100%; 
     margin-top: 20px; 
    }
-   .nav {
+   nav {
       margin-top: 30px;
       color: #FF7F00;
       text-transform: uppercase;

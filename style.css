@@ -105,8 +105,7 @@ body {
    padding: 20px 35px 20px 20px;
 }
 .carousel-inner {
-   padding-left: 20px;
-   padding-right: 35px;
+   padding:20px 35px 20px 20px;
 }
 }
 

@@ -8,11 +8,11 @@ body {
 /* responsive text queries */
 @media screen and (max-width: 992px) {
   p,.btn,input,div,span,h4 {
-    font-size: 180%;
+    font-size: 200%;
   }
   h1 {
     color: #FF7F00; 
-    font-size: 220%  
+    font-size: 180%  
   }
   h2 {
     color: #FF7F00; 
@@ -23,28 +23,22 @@ body {
     color: #FF7F00; 
     font-size: 120%;  
   }
-  p-bottom {
+  .p-bottom {
     color: #337AB7;
     text-transform: uppercase;
     font-size: 80%;
     margin-top: 20px;
    }
-   title {
+   .title {
     color: #FF7F00;
     font-size: 100%; 
     margin-top: 20px;
    }
-   nav {
-      margin-top: 30px;
-      color: #FF7F00;
-      text-transform: uppercase;
-      font-size: 120%;
-   }   
 }
 
 @media screen and (max-width: 768px) {
   p,.btn,input,div,span,h4 {
-    font-size: 120%;
+    font-size: 90%;
   }
   h1 {
     color: #FF7F00;
@@ -59,22 +53,16 @@ body {
     color: #FF7F00;
     font-size: 110%;  
   }
-  p-bottom {
+  .p-bottom {
     color: #337AB7;
     text-transform: uppercase;
     font-size: 80%;
     margin-top: 20px;
    }
-   title {
+   .title {
     color: #FF7F00;
     font-size: 100%; 
     margin-top: 20px; 
-   }
-   nav {
-      margin-top: 30px;
-      color: #FF7F00;
-      text-transform: uppercase;
-      font-size: 120%;
    }
 }
 
@@ -100,7 +88,12 @@ a {
    height: 120px;
    border: none;
 }
-
+.nav {
+      margin-top: 30px;
+      color: #FF7F00;
+      text-transform: uppercase;
+      font-size: 24px;
+}
 
 .footer {
   margin-bottom: 50px;
@@ -155,5 +148,3 @@ a {
    margin-right: 30px;
    margin-bottom: 60px;
 }
-
-

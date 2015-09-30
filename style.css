@@ -34,6 +34,24 @@ body {
     font-size: 100%; 
     margin-top: 20px;
    }
+   .section {
+   width: 100%;
+   padding: 60px 100px;
+
+}
+.section-grey {
+   width: 100%;
+   background-color: #F8F8F8;
+   margin-top:-40px;
+   margin-bottom:-30px;
+   margin-left: none;
+   margin right: none;
+   padding: 60px 100px;
+}
+  .carousel-inner {
+   padding-left: 100px;
+   padding-right: 100px;
+}
 }
 
 @media screen and (max-width: 768px) {
@@ -83,7 +101,7 @@ body {
    margin-top:-40px;
    margin-bottom:-30px;
    margin-left: none;
-   margin right: none;
+   margin-right: none;
    padding: 20px 20px;
 }
 .carousel-inner {
@@ -141,10 +159,7 @@ a {
    margin-bottom: 40px;
 }
 
-.carousel-inner {
-   padding-left: 100px;
-   padding-right: 100px;
-}
+
 
 .slider {
    width: 200px; 

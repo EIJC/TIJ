@@ -5,24 +5,6 @@ body {
 	margin-bottom: 150px;
 }
 
-.section {
-   width: 100%;
-   padding: 20px 20px;
-
-}
-.section-grey {
-   width: 100%;
-   background-color: #F8F8F8;
-   margin-top:-40px;
-   margin-bottom:-30px;
-   margin-left: none;
-   margin-right: none;
-   padding: 20px 20px;
-}
-.carousel-inner {
-   padding-left: 20px;
-   padding-right: 20px;
-}
 
 /* responsive text queries */
 @media screen and (max-width: 992px) {
@@ -110,7 +92,7 @@ body {
 }
 .section {
    width: 100%;
-   padding: 60px 100px;
+   padding: 20px 20px;
 
 }
 .section-grey {
@@ -119,12 +101,12 @@ body {
    margin-top:-40px;
    margin-bottom:-30px;
    margin-left: none;
-   margin right: none;
-   padding: 60px 100px;
+   margin-right: none;
+   padding: 20px 20px;
 }
-  .carousel-inner {
-   padding-left: 100px;
-   padding-right: 100px;
+.carousel-inner {
+   padding-left: 20px;
+   padding-right: 20px;
 }
 }
 

@@ -37,7 +37,7 @@ body {
    }
    .section {
    width: 100%;
-   padding: 60px 100px;
+   padding: 100px 60px 100px 60px;
 
 }
 .section-grey {
@@ -47,7 +47,7 @@ body {
    margin-bottom:-30px;
    margin-left: none;
    margin right: none;
-   padding: 60px 100px;
+   padding: 100px 60px 100px 60px;
 }
   .carousel-inner {
    padding-left: 100px;
@@ -106,7 +106,7 @@ body {
 }
 .carousel-inner {
    padding-left: 20px;
-   padding-right: 20px;
+   padding-right: 35px;
 }
 }
 

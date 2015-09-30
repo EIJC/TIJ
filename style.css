@@ -7,55 +7,7 @@ body {
 
 
 /* responsive text queries */
-@media (min-width: @screen-lg-min) { 
-  p,.btn,input,div,span,h4 {
-    font-size: 120%;
-  }
-  h1 {
-    color: #FF7F00; 
-    font-size: 160%  
-  }
-  h2 {
-    color: #FF7F00; 
-    text-transform: uppercase;
-    font-size: 140%;  
-  }
-  h3 {
-    color: #FF7F00; 
-    font-size: 120%;  
-  }
-  .p-bottom {
-    color: #337AB7;
-    text-transform: uppercase;
-    font-size: 80%;
-    margin-top: 20px;
-   }
-   .title {
-    color: #FF7F00;
-    font-size: 100%; 
-    margin-top: 20px;
-   }
-   .section {
-   width: 100%;
-   padding: 60px 100px;
-
-}
-.section-grey {
-   width: 100%;
-   background-color: #F8F8F8;
-   margin-top:-40px;
-   margin-bottom:-30px;
-   margin-left: none;
-   margin right: none;
-   padding: 60px 100px;
-}
-  .carousel-inner {
-   padding-left: 100px;
-   padding-right: 100px;
-}	
-	
-}
-@media (min-width: @screen-md-min) {
+@media screen and (max-width: 992px) {
   p,.btn,input,div,span,h4 {
     font-size: 120%;
   }
@@ -103,7 +55,7 @@ body {
 }
 }
 
-@media (min-width: @screen-sm-min)  {
+@media screen and (max-width: 768px) {
   p,.btn,input,div,span,h4 {
     font-size: 90%;
   }
@@ -157,12 +109,6 @@ body {
    padding-right: 20px;
 }
 }
-
-
-
-
-    
-
 
 
 a {

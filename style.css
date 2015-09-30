@@ -8,20 +8,20 @@ body {
 /* responsive text queries */
 @media screen and (max-width: 1280px) {
   p,.btn,input,div,span,h4 {
-    font-size: 120%;
+    font-size: 110%;
   }
   h1 {
     color: #FF7F00; 
-    font-size: 140%  
+    font-size: 130%  
   }
   h2 {
     color: #FF7F00; 
     text-transform: uppercase;
-    font-size: 130%;  
+    font-size: 120%;  
   }
   h3 {
     color: #FF7F00; 
-    font-size: 130%;  
+    font-size: 120%;  
   }
   .p-bottom {
     color: #337AB7;

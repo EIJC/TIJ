@@ -101,10 +101,26 @@ a {
    float: left;
 }
 
+.img-slider-right {
+   width: 200px; 
+   height: 200px; 
+   margin-left: 30px; 
+   margin-bottom: 30px;
+   float: right;
+}
+
 .img-circle {
    width: 100px; 
    height: 130px;
    float: left;
    margin-right: 30px;
+   margin-bottom: 60px;
+}
+
+.img-circle-left {
+   width: 100px; 
+   height: 130px;
+   float: right;
+   margin-left: 30px;
    margin-bottom: 60px;
 }

@@ -4,8 +4,7 @@ layout: base
 
 {% if page.language == 'en' %}
   {% include navbar-en.html %}
-{% else %}
-   {if page.language == 'ar' %}
+{% else if page.language == 'ar' %}
   {% include navbar-ar.html %}
 {% else %}
   {% include navbar-de.html %}

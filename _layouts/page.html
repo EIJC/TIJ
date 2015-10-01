@@ -2,13 +2,15 @@
 layout: base
 ---
 
-{% if page.language == 'en' %}
-  {% include navbar-en.html %}
-{% elseif page.language == 'de' %}
-  {% include navbar-de.html %}
-  {% else %}
-  {% include navbar-ar.html %}
-{% endif %}
+if (page.language =='en')
+  { include navbar-en.html }
+else{
+  if(page.language == 'de')
+  {include navbar-de.html}
+  else
+   {include navbar-ar.html}
+ }
+
 
 
 

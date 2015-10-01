@@ -2,12 +2,11 @@
 layout: base
 ---
 
-{% if page.language == 'de' %}
-  {% include navbar-de.html %}
-  {% else %}
-  {% include navbar-ar.html %}
+{% if page.language == 'en' %}
+  {% include navbar-en.html %}
+{% else %}
+  {% include navbar.html %}
 {% endif %}
-
         {{ content }}
 
 

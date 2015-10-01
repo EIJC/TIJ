@@ -1,5 +1,11 @@
 ---
 layout: base
+
+{% if page.language == 'ar' %}
+  {% include main-style-ar.css %}
+{% else %}
+  {% include main-style.css %}
+{% endif %}
 ---
 
 {% if page.language == 'en' %}
@@ -9,6 +15,7 @@ layout: base
 {% else %}
   {% include navbar-de.html %}
 {% endif %}
+
         {{ content }}
 
 

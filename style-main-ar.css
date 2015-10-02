@@ -1,0 +1,41 @@
+body {
+	font-size: 18px;
+  color: #777;
+  margin-top: 140px;
+	margin-bottom: 150px;
+	text-align: right
+}
+
+.img-slider-right {
+   width: 200px; 
+   height: 200px; 
+   margin-left: 30px; 
+   margin-bottom: 30px;
+   float: right;
+}
+
+.img-circle-right {
+   width: 100px; 
+   height: 130px;
+   float: right;
+   margin-left: 30px;
+   margin-bottom: 60px;
+}
+
+.section {
+   width: 100%;
+   padding: 20px 20px 20px 35px;
+}
+
+.section-grey {
+   width: 100%;
+   background-color: #F8F8F8;
+   margin-top:-40px;
+   margin-bottom:-30px;
+   margin-left: none;
+   margin-right: none;
+   padding: 20px 20px 20px 35px;
+}
+.carousel-inner {
+   padding: 20px 20px 20px 35px;
+}

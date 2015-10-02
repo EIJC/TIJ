@@ -1,9 +1,13 @@
 body {
 	font-size: 18px;
-  color: #777;
-  margin-top: 140px;
+  	color: #777;
+  	margin-top: 140px;
 	margin-bottom: 150px;
 	text-align: right
+}
+
+p {
+	direction:rtl
 }
 
 .img-slider-right {

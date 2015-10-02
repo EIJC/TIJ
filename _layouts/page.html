@@ -11,6 +11,10 @@ layout: base
 {% endif %}
         {{ content }}
 
-
+{% if page.language == 'ar %}
+   {% include main-style-ar.css %}
+{% else %}
+   {% include main-style.css %}
+{% endif %}
 
 

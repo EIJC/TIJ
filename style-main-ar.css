@@ -6,10 +6,6 @@ body {
 	text-align: right
 }
 
-p {
-	direction:rtl
-}
-
 .img-slider-right {
    width: 200px; 
    height: 200px; 

@@ -101,13 +101,6 @@ a {
    float: left;
 }
 
-.img-slider-right {
-   width: 200px; 
-   height: 200px; 
-   margin-left: 30px; 
-   margin-bottom: 30px;
-   float: right;
-}
 
 .img-circle {
    width: 100px; 
@@ -117,33 +110,4 @@ a {
    margin-bottom: 60px;
 }
 
-.img-circle-right {
-   width: 100px; 
-   height: 130px;
-   float: right;
-   margin-left: 30px;
-   margin-bottom: 60px;
-}
-
-.lang-ar {
-   text-align: right;}
-  
-  .section {
-   width: 100%;
-   padding: 20px 20px 20px 35px;
-}
-
-.section-grey {
-   width: 100%;
-   background-color: #F8F8F8;
-   margin-top:-40px;
-   margin-bottom:-30px;
-   margin-left: none;
-   margin-right: none;
-   padding: 20px 20px 20px 35px;
-}
-.carousel-inner {
-   padding: 20px 20px 20px 35px;
-}
-}
   

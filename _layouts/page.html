@@ -1,6 +1,11 @@
 ---
 layout: base
 ---
+{% if page.language =='ar'" %}
+  {% include style-main.rtl.css %}
+{% else %}
+  {% include style-main.css %}
+{% endif %}
 
 {% if page.language == 'en' %}
   {% include navbar-en.html %}

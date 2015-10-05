@@ -5,7 +5,9 @@ body {
 	margin-bottom: 150px;
 	text-align: right
 }
-
+.img {
+	float: right;
+}
 .img-slider-right {
    width: 200px; 
    height: 200px; 

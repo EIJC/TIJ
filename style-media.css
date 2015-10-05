@@ -36,7 +36,7 @@
 }
 .section {
    width: 100%;
-   padding: 100px 140px 100px 160px;
+   padding: 100px 380px 100px 380px;
 
 }
 .section-grey {
@@ -46,10 +46,10 @@
    margin-bottom:-30px;
    margin-left: none;
    margin right: none;
-   padding: 100px 140px 100px 160px;
+   padding: 100px 380px 100px 380px;
 }
   .carousel-inner {
-   padding: 100px 140px 100px 160px;
+   padding: 100px 380px 100px 380px;
 }	
 	
 }

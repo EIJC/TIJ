@@ -30,6 +30,11 @@ body {
    margin-bottom: 60px;
 }
 
+.navbar {
+   height: 120px;
+   border: none;
+}
+
 .section {
    width: 100%;
    padding: 20px 20px 20px 35px;

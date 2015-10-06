@@ -212,4 +212,11 @@
 .carousel-inner {
    padding:20px 55px 20px 20px;
 }
+.img-circle {
+   width: 100px; 
+   height: 130px;
+   float: right;
+   margin-left: 20px;
+   margin-bottom: 120px;
+}
 }

@@ -286,6 +286,8 @@ body {
 .img-circle {
    width: 100px; 
    height: 130px;
-   margin-left: 30px;
    margin-bottom: 60px;
+   display: block;
+   margin-right: auto;
+   margin-left: auto;
 }

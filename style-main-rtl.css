@@ -33,6 +33,7 @@ body {
 .navbar {
    height: 120px;
    border: none;
+   float: right;
 }
 
 .section {

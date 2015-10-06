@@ -283,11 +283,4 @@ body {
 .carousel-inner {
    padding:20px 20px 20px 35px;
 }
-.img-circle {
-   width: 100px; 
-   height: 130px;
-   margin-bottom: 60px;
-   display: block;
-   margin-right: auto;
-   margin-left: auto;
-}
+

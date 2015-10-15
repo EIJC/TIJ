@@ -1,10 +1,22 @@
 <!doctype html>
+
+{% if page.language == 'ar' %}
+  <html lang="ar" dir="rtl">
+{% else %}
+  <html lang="en">
+{% endif %}
+
 <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{{ page.title }} &middot; {{ site.title }}</title>
 <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.4/css/bootstrap.css">
-<link rel="stylesheet" href="{{ site.base_url }}/style-main.css">
-<link rel="stylesheet" href="{{ site.base_url }}/style-media.css">
+
+{% if page.language == 'ar' %}
+  <link rel="stylesheet" href="{{ site.base_url }}/style-main-rtl.css">
+{% else %}
+  <link rel="stylesheet" href="{{ site.base_url }}/style-main.css">
+  <link rel="stylesheet" href="{{ site.base_url }}/style-media.css">
+{% endif %}
 
 <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.4/js/bootstrap.js"></script>

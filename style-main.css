@@ -76,9 +76,7 @@ a {
    padding:20px 35px 20px 20px;
 }
 
-.carousel-inner-2 {
-   padding:0px 35px 20px 20px;
-}
+
 
 .btn {
    color: #FF7F00;
@@ -113,6 +111,7 @@ a {
    width: 600px;
    float:left;
    margin-right: 30px;
+   margin-top:-20px;
 }
 
 .img-circle {

@@ -22,7 +22,7 @@ h3 {
 a {
    color: #FF7F00;
 }
-  
+
 .p-bottom {
     color: #337AB7;
     text-transform: uppercase;
@@ -99,7 +99,10 @@ a {
    margin-bottom: 30px;
    float: left;
 }
-
+.img-slider-2 {
+   width: auto;
+   float: none;
+}
 
 .img-circle {
    width: 100px; 

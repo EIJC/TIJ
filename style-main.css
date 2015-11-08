@@ -103,7 +103,7 @@ a {
    float: left;
 }
 .img-slider-2 {
-   width: auto;
+   max-width: 400px;
    float: none;
 }
 

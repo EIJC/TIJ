@@ -28,6 +28,10 @@ body {
    margin-left: 30px;
    margin-top:-120px;
 
+.p-pic {
+    float: right;
+    font-size: 10px;
+}
 
 .img-circle {
    width: 100px; 

@@ -73,6 +73,9 @@ a {
    padding:20px 35px 20px 20px;
 }
 
+.carousel-inner-2 {
+   padding: 0px auto 20px auto;
+}
 
 .btn {
    color: #FF7F00;

@@ -50,7 +50,14 @@
 }
   .carousel-inner {
    padding: 100px 380px 100px 380px;
-}	
+}
+
+.img-slider-2 {
+   width: 600px;
+   float:left;
+   margin-right: 30px;
+   margin-top:-100px;
+}
 	
 }
 
@@ -105,6 +112,13 @@
   .carousel-inner {
    padding: 100px 140px 100px 160px;
 }	
+
+.img-slider-2 {
+   width: 600px;
+   float:left;
+   margin-right: 30px;
+   margin-top:-100px;
+}
 	
 }
 @media screen and (max-width: 992px) {
@@ -157,6 +171,13 @@
 }
   .carousel-inner {
    padding: 100px 60px 100px 60px;
+}
+
+.img-slider-2 {
+   width: 600px;
+   float:left;
+   margin-right: 30px;
+   margin-top:-100px;
 }
 }
 

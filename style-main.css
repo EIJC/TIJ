@@ -71,7 +71,7 @@ a {
 }
 
 .section-pic {
-   width: 75%;
+   width: 600px;
 }
 .carousel-inner {
    padding:20px 35px 20px 20px;
@@ -110,7 +110,7 @@ a {
    float: left;
 
 .img-slider-2 {
-   width: 100%;	
+   width: 600px;
 }
 
 .img-circle {

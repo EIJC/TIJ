@@ -112,6 +112,7 @@ a {
 .img-slider-2 {
    width: 600px;
    float:left;
+   margin-right: 30 px;
 }
 
 .img-circle {

@@ -30,8 +30,9 @@ a {
     margin-top: 20px;
    }
 .p-pic {
-    float: right;
+    float: left;
     font-size: 10px;
+    margin-left: 10px;
 }
 .title {
     color: #FF7F00;
@@ -70,9 +71,7 @@ a {
    padding: 20px 35px 20px 20px;
 }
 
-.section-pic {
-   width: 600px;
-}
+
 .carousel-inner {
    padding:20px 35px 20px 20px;
 }
@@ -112,6 +111,7 @@ a {
 
 .img-slider-2 {
    width: 600px;
+   float:left;
 }
 
 .img-circle {

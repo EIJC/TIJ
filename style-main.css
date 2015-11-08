@@ -29,7 +29,10 @@ a {
     font-size: 80%;
     margin-top: 20px;
    }
-   
+.p-pic {
+    float: right;
+    font-size: 10px;
+}
 .title {
     color: #FF7F00;
     font-size: 100%; 

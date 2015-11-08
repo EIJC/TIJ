@@ -251,6 +251,6 @@
 .carousel-indicators li{
     border: 1px solid #FF7F00;
     background-color: #FF7F00;
-    margin-bottom: 2px;
+    margin-bottom: -20px;
 }
 }

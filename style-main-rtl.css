@@ -76,6 +76,19 @@ body {
    margin-bottom: 40px;
 }
 
+.btn-circle-1 {
+    width: 70px;
+    height: 70px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    padding: 9px 13px;
+    border: 2px solid #FF7F00;
+    border-radius: 100% !important;
+    font-size: 40px;
+    color: #FF7F00;
+    background: transparent none repeat scroll 0px 0px;
+    
+}
 
 /* responsive text queries */
 @media screen and (min-width: 1280px) {

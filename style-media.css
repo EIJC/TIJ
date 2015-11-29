@@ -11,11 +11,12 @@
   h2 {
     color: #FF7F00; 
     text-transform: uppercase;
-    font-size: 120%;  
+    font-size: 100%;  
   }
   h3 {
     color: #FF7F00; 
-    font-size: 120%;  
+    font-size: 150%;  
+    font-weight: bold;
   }
   .p-bottom {
     color: #337AB7;
@@ -72,11 +73,12 @@
   h2 {
     color: #FF7F00; 
     text-transform: uppercase;
-    font-size: 120%;  
+    font-size: 100%;  
   }
   h3 {
     color: #FF7F00; 
-    font-size: 120%;  
+    font-size: 150%;  
+    font-weight: bold;;  
   }
   .p-bottom {
     color: #337AB7;
@@ -132,11 +134,12 @@
   h2 {
     color: #FF7F00; 
     text-transform: uppercase;
-    font-size: 110%;  
+    font-size: 100%;  
   }
   h3 {
     color: #FF7F00; 
-    font-size: 110%;  
+    font-size: 150%;  
+    font-weight: bold;;  
   }
   .p-bottom {
     color: #337AB7;
@@ -192,11 +195,12 @@
   h2 {
     color: #FF7F00; 
     text-transform: uppercase;
-    font-size:120%;  
+    font-size:100%;  
   }
   h3 {
     color: #FF7F00;
-    font-size: 110%;  
+    font-size: 120%; 
+    font-weight: bold;
   }
   .p-bottom {
     color: #337AB7;

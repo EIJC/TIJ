@@ -281,7 +281,7 @@ body {
 }
 .section {
    width: 100%;
-   padding: 20px 20px 20px 35px;
+   padding: 20px 40px 20px 35px;
 
 }
 .section-grey {
@@ -291,10 +291,10 @@ body {
    margin-bottom:-30px;
    margin-left: none;
    margin-right: none;
-   padding: 20px 20px 20px 35px;
+   padding: 20px 40px 20px 35px;
 }
 .carousel-inner {
-   padding:20px 20px 20px 35px;
+   padding:20px 40px 20px 35px;
 }
 .img-circle {
    width: 100px; 

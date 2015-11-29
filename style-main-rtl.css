@@ -246,7 +246,7 @@ body {
 
 @media screen and (max-width: 768px) {
   p,.btn,input,div,span,h4 {
-    font-size: 90%;
+    font-size: 95%;
   }
   h1 {
     color: #FF7F00;

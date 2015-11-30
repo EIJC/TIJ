@@ -312,7 +312,7 @@ body {
 .img-circle {
    width: 100px; 
    height: 130px;
-   float: right;
+   float: none;
    margin-left: 120px;
    margin-bottom: 20px;
 }

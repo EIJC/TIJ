@@ -103,7 +103,8 @@ a {
 .img-responsive {
    max-width: 460px;
    float: left;
-   margin-rigt: 30px;
+   margin-right: 30px;
+   margin-bottom: 30px;
 }
 
 .img-slider {

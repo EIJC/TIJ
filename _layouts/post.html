@@ -1,14 +1,7 @@
 ---
-layout: base
+layout: page
 ---
 
-{% if page.language == 'en' %}
-  {% include navbar-en.html %}
-{% elsif page.language == 'ar' %}
-  {% include navbar-ar.html %}
-{% else %}
-  {% include navbar-de.html %}
-{% endif %}
 <div class="section">
         {{ content }}
 </div>

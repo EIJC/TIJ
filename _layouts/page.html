@@ -11,6 +11,7 @@ layout: base
 {% endif %}
         {{ content }}
 
+<footer>
 {% if page.language == 'en' %}
   {% include footer-en.html %}
 {% elsif page.language == 'ar' %}
@@ -18,4 +19,4 @@ layout: base
 {% else %}
   {% include footer-de.html %}
 {% endif %}
-
+</footer>

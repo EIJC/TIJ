@@ -276,7 +276,7 @@
 }
 
 .img-responsive {
-   max-width: 100px;
+   max-width: 100%;
    float: left;
    margin-right: 30px;
    margin-bottom: 30px;
